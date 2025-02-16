@@ -16,8 +16,6 @@ The dataset used for this analysis includes information such as:
 - Country 
 - Company  
 
-Here is the link to download the [Dataset](https://www.kaggle.com/datasets/danielgrijalvas/movies)
-
 ## 🛠️ Technologies Used  
 - **Python** (pandas, numpy, matplotlib, seaborn, scipy)  
 - Jupyter Notebook 
